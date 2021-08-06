@@ -6,11 +6,11 @@
 
  <div>
   <br><a href="https://github.com/LuizFilipeDev">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFilipeDev&layout=compact&langs_count=7&theme=dark&card_width=1080"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFilipeDev&layout=compact&langs_count=7&theme=dark"/>
  </div>
   
 <div style="display: inline_block"><br>
-    <img align="center" alt="Luiz-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+   <img align="center" alt="Luiz-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luiz-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Luiz-DotNetCore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
