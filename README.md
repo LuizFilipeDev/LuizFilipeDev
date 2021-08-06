@@ -1,13 +1,11 @@
-### Hello World 👋👋
-
-- 🔭 Trabalho atualmente com desenvolvimento web
-- 🌱 Estudando C#, .NET, ASP.NET, JavaScript  
-- 📫 Contate-me no email: luizfilipe.souza.s@outlook.com
-- ⚡ Just the beginning 😁😁
+###   Hello World 👋👋
+  <br>
+  🔭 Trabalho atualmente com desenvolvimento web
+  🌱 Estudando C#, .NET, ASP.NET e JavaScript 
+  ⚡ Just the beginning 😁😁
 
  <div>
-  <a href="https://github.com/LuizFilipeDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFilipeDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,prs,issues"/>
+  <br><a href="https://github.com/LuizFilipeDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFilipeDev&layout=compact&langs_count=7&theme=dark"/>
  </div>
   
@@ -25,7 +23,6 @@
 ## 
  
 <div> 
-  <a href="mailto:luizfilipe.souza.s@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-soares-33776b200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/LuizFilipeDev/LuizFilipeDev/blob/output/github-contribution-grid-snake.svg)  
