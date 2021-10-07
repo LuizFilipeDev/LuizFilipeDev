@@ -1,7 +1,6 @@
 ###   Hello World 👋👋
   <br>
   🔭 Trabalho atualmente com desenvolvimento web
-  🌱 Estudando C#, .NET, ASP.NET e JavaScript 
   ⚡ Just the beginning 😁😁
 
 ## 
