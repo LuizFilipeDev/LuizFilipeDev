@@ -1,7 +1,6 @@
 ###   Hello World 👋👋
   <br>
-  🔭 You are welcome 🔭
-  ⚡ Just the beginning 😁😁
+  Welcome 😁 😁
 
 ## 
 
